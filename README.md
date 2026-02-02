@@ -2,7 +2,7 @@
 
 Das vollständige Notebook für das Thema: "Daten als Produkt: Wert vs. Aufwand" ist hier unter Google Colab zu finden.
 
-[![Notebook in Colab öffnen](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DEIN-USERNAME/daten-als-produkt/blob/main/Daten_als_Produkt.ipynb)
+[![Notebook in Colab öffnen](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raphaelkach/daten-als-produkt/blob/main/Daten_als_Produkt.ipynb)
 
 ## Schnellstart
 
